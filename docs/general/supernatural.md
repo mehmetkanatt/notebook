@@ -2,6 +2,187 @@
 tags: [brutalwill, daddy_issues, leylailemecnun, marasdeprem2023, supernatural]
 ---
 
+Honor bar. What's honorable about a miniature bar in a motel room?  
+Everything  
+
+> Unknown (2023-11-13 15:01:03)  
+> #supernatural
+
+--
+
+Do you understand that the universe is made up of stories, not atoms?  
+
+> Unknown (2023-11-13 14:10:04)  
+> #supernatural
+
+--
+
+Your problem, mate, is that nobody hates you more than you do.  
+
+> Unknown (2023-11-07 14:26:01)  
+> #supernatural
+
+--
+
+We're friends  
+You tortured me.  
+I torture all my friends. It's how i show love.  
+
+> Unknown (2023-10-27 22:10:30)  
+> #supernatural
+
+--
+
+Angels. They're just monsters with good PR.  
+
+> Unknown (2023-10-27 20:07:29)  
+> #supernatural
+
+--
+
+what's that old expression? "If you want something done right..." blah blah blah...
+
+I heard the rest. you fell in love with a unicorn. it was beautiful, then sad, then sadder. i laughed, i cried, i puked in my mouth a little.  
+
+> Unknown (2023-10-19 23:44:20)  
+> #supernatural
+
+--
+
+Get cancer and die, old man.  
+You first, sweetie.  
+
+> Unknown (2023-10-18 13:27:50)  
+> #supernatural
+
+--
+
+i'm quite certain this is all beyond your understanding my alpha-male, monkey friend. and violence will not help you comprehend this any easier.
+
+ancient demon-killing knife of the Kurds
+
+because it is the safest place on eartch, warded against any evil ever created. it's impervious to any entry except the key.   
+right but then all that knowledge would be lost and gone forever.   
+and that is the price we have to pay for keeping it away from.  
+
+> Unknown (2023-10-17 09:01:49)  
+> #supernatural
+
+--
+
+It's just a game here.  
+Why would you play such a game.  
+This world. Not so much with the awesome. The game is a wat to get away.  
+
+> Unknown (2023-10-16 21:02:17)  
+> #supernatural
+
+--
+
+if you murder a monster in monster heaven, where does it go?
+
+let the ocean swallow up all our sins.
+
+vampirates
+
+a motel is not actually part of the town that it's in. it's not part of anywhere.
+
+you dont know him. he's a friend.   
+a friend? you dont have any... all your friends are dead.
+
+seen all the outcomes, all the patterns, a trillion times. it all means so little. this universe is a pyramid of despair.  
+
+> Supernatural 8.5 (2023-10-14 00:46:28)  
+> #supernatural
+
+--
+
+Those guys arent FBI. I'm pretty sure that FBI agents dont say "awesome" that much  
+
+> Supernatural 8.4 (2023-10-12 23:54:27)  
+> #supernatural
+
+--
+
+you smell it?  
+burning flesh?  
+revenge. so close.
+
+Say it and i will kill you, your children and your grandchildren.
+
+It's not about the quantity. It's about sacrifice. This little lady's soul is the most valuable thing she has. It's everything. Are you willing to offer everything?
+
+I bid my own soul  
+Mr. Crowley, you dont have a soul.
+
+Losing my soul, is it going to hurt?  
+Probably.  
+Will i die?  
+No. You'll just wish you were dead.  
+
+> Supernatural 8.2 (2023-10-11 21:20:10)  
+> #supernatural
+
+--
+
+but the sooner you get this, the better. you're in it now, whether you like it or not. that means you do what you gotta do.  
+
+> Unknown (2023-10-10 22:40:34)  
+> #supernatural
+
+--
+
+no more maddness. no more promises. no more new gods.  
+
+> Unknown (2023-10-02 09:16:10)  
+> #supernatural
+
+--
+
+dead. ghost. me
+
+life wasnt comfy, why should death be?  
+
+> Supernatural 7.19 (2023-09-29 23:17:53)  
+> #supernatural
+
+--
+
+What you took will be taken from you.  
+
+> Unknown (2023-09-29 20:23:54)  
+> #supernatural
+
+--
+
+(on recording): leave your name, number and nightmare at the tone.
+
+sleep deprivation is an enhanced interrogation technique? it's torture.
+
+you see a winchester, you dont eat him. you tell me and i eat him.
+
+dont look back until you get some place where you dont speak the language.  
+
+> Supernatural 7.16 (2023-09-28 09:00:00)  
+> #supernatural
+
+--
+
+grief therapy.
+
+you're going to a bar.  
+wow. if you wanna oversimplify it.
+
+I hear they grow like weeds.
+
+A crazy drunk old genius.  
+They always have the good stuff.  
+
+> Unknown (2023-09-26 21:46:09)  
+> #supernatural
+
+--
+
 what's the plan exactly?  
 don't die.
 

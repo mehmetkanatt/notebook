@@ -1,6 +1,17 @@
 ---
-tags: [ajax, autocomplete, browser, funny, golang, googlechrome, htaccess, http, icloud, mkdocs, nextjs, phpmyadmin, systemdesign, throughput]
+tags: [ajax, autocomplete, browser, funny, golang, googlechrome, htaccess, http, icloud, linux, mkdocs, nextjs, phpmyadmin, systemdesign, throughput]
 ---
+
+## Create UID
+
+```  
+echo -e "$(tr -dc 'A-Za-z0-9' < /dev/urandom | head -c50)"  
+```  
+
+> Unknown (2023-10-09 16:30:53)  
+> #linux
+
+--
 
 ## Delete Google Chrome's Auto Redirection
 

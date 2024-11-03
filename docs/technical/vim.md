@@ -15,7 +15,9 @@ undo the last change: u
 
 print file name -> :pwd  
 save as -> :w filename  
-insert mode with new line: o  
+insert mode with new line: o
+
+reformat file -> =G  
 
 > Unknown (2023-08-10 22:52:23)  
 > #vim

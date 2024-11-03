@@ -2,6 +2,36 @@
 tags: [amywinehouse, artificial-intelligence, behzatc, brutalwill, deepworking, desire, education, hope, kaancaydamli, kaybedenlerkulubu, love, marriage, monologue, music, orucaruoba, science]
 ---
 
+hakli olarak aklini kacirmis, cunku duzeni anlayamamis.  
+
+> Unknown (2023-10-15 14:16:59)  
+  
+--
+
+Saygisizlarin ortak ozelligi, korkak olmalari  
+
+> Saygı (2023-10-06 10:32:15)  
+  
+--
+
+Seni kitap okuyan insanlarla tanistiracagim. Hayat ancak boyle insanlarla bir araya geliyorsan yasanmaya deger olur.  
+
+> Jack London (2023-09-27 14:29:55)  
+  
+--
+
+All those who wander are not lost.  
+
+> KodeKloud (2023-09-27 10:17:02)  
+  
+--
+
+Korkma bu agaclar, cicekler sir saklar. Insan degil ki ihanet etsin.  
+
+> Samipasazade Sezai - Serguzest (2023-09-26 13:42:16)  
+  
+--
+
 her zaman “sınırlar”la ilgilenmiş olan korku edebiyatının  
 
 > William Hope Hodgson - Sınırdaki Ev (2023-09-23 12:09:25)  

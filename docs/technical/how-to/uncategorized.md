@@ -1,6 +1,18 @@
 ---
-tags: [aws, basicauth, cron, curl, elasticsearch, exif, foxyproxy, how-to, linux, socksproxy, sonarqube, sysctl]
+tags: [aws, basicauth, cron, curl, elasticsearch, exif, foxyproxy, how-to, linux, socksproxy, sonarqube, stress, sysctl]
 ---
+
+## Install stress for Amazon Linux 2
+
+```  
+sudo amazon-linux-extras install epel -y  
+sudo yum install stress -y  
+```  
+
+> Unknown (2023-11-20 22:46:11)  
+> #aws #linux #stress
+
+--
 
 ## Remove EXIF Metadata with exiftool
 

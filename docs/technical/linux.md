@@ -1,6 +1,35 @@
 ---
-tags: [linux]
+tags: [aws, linux, oom, stress]
 ---
+
+## Create OOM Signal with stress
+
+[Click to install stress on Amazon Linux 2](/technical/how-to/uncategorized#install-stress-for-amazon-linux-2)
+
+Start test
+
+change numbers by your instance capacity
+
+```  
+stress -m 16 -t 60  
+```  
+
+> Unknown (2023-11-20 22:48:08)  
+> #aws #linux #oom #stress
+
+--
+
+## Search with grep
+
+```  
+grep -rni "keyword" .  
+grep -Rnw '/' -e 'keyword'  
+```  
+
+> Unknown (2023-10-18 11:39:28)  
+> #linux
+
+--
 
 ## File System
 

@@ -2,6 +2,24 @@
 tags: [books, brutalwill, kaancaydamli, kierkegaard, necm, orucaruoba, quran, reading, schopenhauer, umbertoeco, university]
 ---
 
+Çünkü bu ses bütün geride bıraktıklarımın sesidir.  
+
+> Sait Faik Abasıyanık - Bütün Eserleri (2023-10-21 14:23:46)  
+  
+--
+
+Dülger balığının ölüm hali uzun sürüyor. Sanki balık su hava dediğimiz gaz suya alışmağa çalışmaktadır. Hani biraz dişini sıksa, alışması mümkündür gibime geldi.
+
+Bu iki saat süren ölüm halini, dört saate, dört saati sekiz saate, sekiz saati yirmi dörde çıkardık mıydı; dülger balığını aramızda bir işle uğraşırken görüvereceğiz sanıyorum.
+
+Onu atmosferimize, suyumuza alıştırdığımız gün, bayramlar edeceğiz. Elimize görünüsü dehşetli, korkunç, çirkin ama, aslında küser huylu, pek sakin, pek korkak, pek hassas, iyi yürekli, tatlı ve korkak bakışlı bir yaratık geçirdiğimizden böbürlenerek onu üzmek için elimizden geleni yapacağız. Şaşıracak, önce katlanacak. Onu şair, küskün, anlaşılmayan biri yapacağız. Bir gün hassaslığını, ertesi gün sevgisini, üçüncü gün korkaklığını, sükûnunu kötüleyecek, canından bezdireceğiz. İçinde ne kadar güzel şey varsa hepsini, birer birer söküp atacak. Acı acı sırıtarak İsanın tuttuğu belinin ortasındaki parmak izi yerlerini, mahmuzları, kerpeteni, eğesi, testeresi ve baltasıyla kazıyacak. İlk çağlardaki canavar halini bulacak.
+
+Bir kere suyumuza alışmağa görsün. Onu canavar haline getirmek için hiç bir firsatı kaçırmayacağız.  
+
+> Sait Faik Abasıyanık - Dülger Balığının Ölümü (2023-10-21 14:20:57)  
+  
+--
+
 İnsan hayatında derin bir anlam bulamadığında kendini haz alabileceği şeylerle oyalamaya yönelir.  
 
 > Viktor Frankl (2023-08-31 15:58:15)  
