@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mehmet\'s Digital Garden',
   tagline: 'Whales are so cool, especially flying ones',
-  url: 'https://mehmetka.com',
+  url: 'https://mehmetkanat.com',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'mehmetka',
+  organizationName: 'mehmetkanat.com',
   projectName: 'notebook',
   deploymentBranch: 'master',
 
@@ -24,7 +24,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/mehmetka/notebook/blob/master',
+          editUrl: 'https://github.com/mehmetkanatt/notebook/blob/master',
         },
         blog: false,
         theme: {
@@ -43,7 +43,7 @@ const config = {
           disableSwitch: true,
         },
         navbar: {
-          title: 'mehmetka',
+          title: 'mehmetkanat.com',
           logo: {
             alt: 'My Site Logo',
             src: 'img/logo.svg',
@@ -54,7 +54,7 @@ const config = {
               label: 'Tags',
             },
             {
-              href: 'https://github.com/mehmetka/notebook',
+              href: 'https://github.com/mehmetkanatt/notebook',
               label: 'GitHub',
               position: 'right',
             },
