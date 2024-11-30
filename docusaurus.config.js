@@ -39,7 +39,7 @@ const config = {
       ({
         colorMode: {
           defaultMode: 'dark',
-          respectPrefersColorScheme: true,
+          respectPrefersColorScheme: false,
           disableSwitch: true,
         },
         navbar: {
